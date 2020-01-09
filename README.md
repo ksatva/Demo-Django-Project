@@ -27,7 +27,7 @@
     views.py (write some code)                          # ./calc/views.py
     Add a entry of 'calc urls' to './myFirstDjangoProject/urls.py' (THE MAIN urls.py file of myFirstDjangoProject)
         
-#### use concepts of DTL(Django Template Language) for creating dynamic content
+#### use concepts of DTL (Django Template Language) for creating dynamic content
 
     move to BASE_DIR (.)
     $ mkdir templates & cd templates        # ./templates
